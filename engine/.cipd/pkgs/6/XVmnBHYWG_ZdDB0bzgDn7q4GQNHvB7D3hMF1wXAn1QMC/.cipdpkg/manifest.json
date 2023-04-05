@@ -1,0 +1,13 @@
+{
+  "format_version": "1.1",
+  "package_name": "perfetto/trace_to_text/linux-amd64",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "trace_to_text",
+      "size": 6939560,
+      "executable": true,
+      "hash": "EJ9P87vUdjOwwIozjxIw5p1Snd8VhGVu1F2KWayqq-sC"
+    }
+  ]
+}

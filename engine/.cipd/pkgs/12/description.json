@@ -1,0 +1,4 @@
+{
+  "subdir": "src/fuchsia/sdk/linux",
+  "package_name": "fuchsia/sdk/core/linux-amd64"
+}
